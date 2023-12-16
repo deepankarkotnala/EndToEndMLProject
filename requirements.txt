@@ -1,0 +1,5 @@
+numpy
+pandas
+
+## running requirements.txt file without explicitly running the setup.py file. Directly requirements file se hi call ho jayega setup.py 
+# -e .
